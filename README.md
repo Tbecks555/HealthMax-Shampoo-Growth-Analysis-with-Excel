@@ -10,9 +10,9 @@ The analysis involved:
 
 * Exploring **Brand Portfolio Pricing** and **Mix Management** to determine the right product mix and pricing strategy for new product launches.
 
-Applying **Trade Terms Management, Pack Price Architecture, and Promotion Management** to identify the most profitable investments and effective promotions.
+* Applying **Trade Terms Management, Pack Price Architecture, and Promotion Management** to identify the most profitable investments and effective promotions.
 
-Developing a **growth forecast model** that combines organic growth with incremental revenue from NRM initiatives.
+* Developing a **growth forecast model** that combines organic growth with incremental revenue from NRM initiatives.
 
 
 # Project Objectives
@@ -27,3 +27,10 @@ Developing a **growth forecast model** that combines organic growth with increme
 
 
 # Tools Used
+
+* **Excel**: Performed KPI calculations (Market Share, YTD, MAT), applied Net Revenue Management techniques (Brand Portfolio Pricing, Mix Management, Trade Terms, Pack Price Architecture, Promotion Management), and built a growth forecast model.
+
+* **PowerPoint**: Presented key findings, insights, and strategic recommendations for HealthMax’s management team.
+
+
+# Insights
