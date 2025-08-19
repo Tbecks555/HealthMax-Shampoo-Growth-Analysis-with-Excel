@@ -33,4 +33,42 @@ The analysis involved:
 * **PowerPoint**: Presented key findings, insights, and strategic recommendations for HealthMax’s management team.
 
 
-# Insights
+# Key Insights
+
+1. HealthMax supplies two shampoo brands — Shinez and Starbust, and the strongest growth came in 2020 (+4%) with Shinez driving most of it (+7.66%) compared to Starbust (+1.77%), showing that Shinez is the clear growth engine.
+
+2. The total turnover of the shampoo category in the last 12 months (as of March 2023) was $98.45M, which means that even a small share gain can translate into millions in extra revenue.
+
+3. Starbust held 24% market share in 2018 and dropped to 20% in 2023, while Shinez held 12% in 2018 and grew to 14% in 2023. Though Starbust led with 20% market share compared to Shinez’s 14%, Starbust is bigger but losing ground while Shinez is smaller but growing steadily.
+
+4. In 2022, Net Sales were $20.48M with a Gross Profit of $14.03M and a Gross Margin of 68.5%, showing that the portfolio is highly profitable but requires smart pricing to sustain margins.
+
+5. Starbust Ultra Soft 100ML is the most important SKU, with the highest gross margin (71%) and 18% of net sales contribution, making it a top strategic priority.
+
+6. The Starbust Strong Hair range is the least important in terms of profitability and contribution, suggesting it may need repositioning, reformulation, or deprioritization.
+
+
+# NRM Growth Opportunities
+
+We discovered that HealthMax is currently active in only **2 out of the 5 shampoo subcategories** (Anti-dandruff and Volumizing), leaving significant room to expand. By applying **Net Revenue Management (NRM) growth strategies** — specifically **Mix Management**, which focuses on optimizing the range of products across brands and subcategories — we identified opportunities to launch new products in untapped subcategories as a first step toward unlocking additional growth.
+
+1. The **Organic shampoo category** recorded the fastest growth between 2018 and 2022, with sales increasing by approximately **276%** over the period. Looking at the historic trend, we estimate that the size of this category for full year 2024 will be **20% higher than the March 2023 MAT values**, reaching **1,020,899 units sold**. This shows that **entering the Organic category presents a major opportunity for HealthMax Management to capture new consumer demand and strengthen long-term growth.**
+
+2. Based on the discovery that the **Organic shampoo category is the fastest-growing segment**, **HealthMax Management** evaluated two possible product launches for early 2024. We estimated the **expected Net Sales, Gross Profit, and Gross Margin** for both options to determine the best candidate. The analysis showed that **Herbashine should be launched**. While **HerbEssentials** is projected to generate slightly higher Net Sales (**$357,315**) compared to **Herbashine** (**$336,897**), Herbashine delivers a stronger **Gross Profit of $226,640** versus **$219,493** for HerbEssentials, and a higher **Gross Margin (67% vs. 61%)**. This makes **Herbashine the more profitable and strategic choice** for entering the Organic category.  
+
+3. We applied another NRM strategy, **Price Pack Architecture (PPA)**, which focuses on designing the right pack sizes to meet different consumer needs. The smallest shampoo size in HealthMax’s portfolio was **100ml**. However, market research revealed growing demand among travelers for more compact **50ml bottles**. After analyzing the potential and benchmarking with international markets where 50ml formats had already proven successful, we estimated that launching a **50ml shampoo bottle** could open up a new consumer segment and generate approximately **$265,960 in Net Sales**. This shows that introducing smaller pack sizes not only addresses unmet consumer needs but also creates an incremental growth opportunity for **HealthMax Management**.
+
+4. We also applied the **Promotion Management** strategy to evaluate the effectiveness of promotional campaigns run on the **Shinez brand** in 2022. The goal was to identify which promotion should be prioritized for 2024.  
+
+The analysis revealed clear differences in performance:  
+- **Promotion #1 (Buy 2, Get 1 Free): –2% ROI**, showing it was unprofitable.  
+- **Promotion #2 (Buy 2, Get 20% Off): 12% ROI**, making it the most effective promotion.  
+- **Promotion #3 (2nd at 50% Off): 6% ROI**, which delivered positive but moderate returns.  
+
+This shows that **Promotion #2** was the most successful strategy, driving the highest return on investment and proving to be the best option for future campaigns.
+
+
+
+
+
+
