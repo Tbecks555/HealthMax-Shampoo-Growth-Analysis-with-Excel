@@ -1,4 +1,4 @@
-# HealthMax-Shampoo-Growth-Analysis-with-Excel
+# HealthMax-Growth-Analysis-with-Excel
 
 # Overview
 
